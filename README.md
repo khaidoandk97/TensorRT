@@ -2,7 +2,7 @@
 
 I make this repo to get familiar with tensorRT, and also to learn, share from community.
 
-## Environmet
+## Environment
 1. GTX1650 - 4G
 2. Ubuntu 20.04
 3. cuda 11.4
