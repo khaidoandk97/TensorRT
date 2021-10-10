@@ -6,4 +6,4 @@ LetNet was one of the earliest convolutional neural networks and promoted the de
 
 ## Architecture
 
-![image](https://raw.githubusercontent.com/khaidoandk97/TensorRT/master/.github/images/architecture.jpg)
+![image](https://raw.githubusercontent.com/khaidoandk97/TensorRT/master/.assets/lenet5.jpg)
