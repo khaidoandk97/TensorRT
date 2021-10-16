@@ -13,4 +13,4 @@ I make this repo to get familiar with tensorRT, and also to learn, share from co
 ## Reference Source
 1. tensorrt repo - wang-xinyu: [tensorrt](https://github.com/wang-xinyu/tensorrtx.git)
 2. pytorchx repo - wang-xinyu: [pytorchx](https://github.com/wang-xinyu/pytorchx.git)
-3. example of nvidia public
+3. document of nvidia public: [tensorrt-document](https://docs.nvidia.com/deeplearning/tensorrt/index.html)
